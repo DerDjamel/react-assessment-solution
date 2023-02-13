@@ -1,0 +1,13 @@
+.actionHeaderText{
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    line-height: 20px;
+}
+
+.actionHeaderContainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 16px;
+}

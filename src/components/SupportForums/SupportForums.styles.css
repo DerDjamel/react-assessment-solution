@@ -1,0 +1,20 @@
+.descText {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: var(--text-secondary);
+}
+
+.linkText {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  color: var(--tertiary);
+}
+
+.inlineDisplay {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}

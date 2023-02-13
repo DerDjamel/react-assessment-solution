@@ -1,0 +1,31 @@
+{
+  "SUPPORT_FORUMS": "Support Forums",
+  "SUPPORT_FORUMS_DESC": "Search the topic you need help with in our support forums.",
+  "SUPPORT_FORUMS_LINK": "Browse Forums",
+  "NEED_HELP": "Need Help?",
+  "GET_SUPPORT": "Get Support",
+  "SUPPORT_RESOURCES": "Support  Resources",
+  "SEARCH_SUPPORT": "Search Support",
+  "MY_TICKETS": "My Tickets",
+  "NO_TICKETS": "No Tickets Found!",
+  "MY_TICKETS_DESC": "Your support tickets or feature requests will appear here.",
+  "TICKETS": "TICKETS",
+  "STATUS": "STATUS",
+  "CREATED_ON": "CREATED ON",
+  "REPLIES": "REPLIES",
+  "LAST_BY": "Last By",
+  "TICKETS_FILTERS": {
+    "ALL": "All",
+    "OPEN": "Open",
+    "FEEDBACK": "Feedback",
+    "RESOLVED": "Resolved"
+  },
+  "SEARCH_TICKETS": "Search Tickets",
+  "TICKETS_2": "Tickets",
+  "DATE_YESTERDAY": "Yesterday",
+  "DATE_TODAY": "Today",
+  "NO_TICKETS_SEARCH": {
+    "TEXT1": "No tickets found for \"{{keyword}}\"",
+    "TEXT2": "Please adjust your search term and try again."
+  }
+}

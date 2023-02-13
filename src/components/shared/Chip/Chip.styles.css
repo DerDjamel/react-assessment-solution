@@ -1,0 +1,12 @@
+.chip{
+    width: fit-content;
+    height: fit-content;
+    padding: 4px 10px;
+    background-color: var(--secondary);
+    color: var(--text-primary);
+    border-radius: 14px;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 18px;
+    text-transform: uppercase;
+}

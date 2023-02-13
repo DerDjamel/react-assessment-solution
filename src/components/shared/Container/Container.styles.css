@@ -1,0 +1,36 @@
+.reusableContainer {
+  width: 100%;
+  padding: 0;
+  margin: 60px auto 0;
+  background-color: var(--white);
+  border-radius: 4px;
+}
+
+.containerHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 20px;
+  border-bottom: 1px solid var(--secondary);
+}
+
+.containerContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  gap: 10px;
+  /* height: calc(100% - 100px); */
+  flex-wrap: wrap;
+}
+
+@media (max-width: 600px) {
+  .reusableContainer {
+    margin: 30px auto 0;
+  }
+  .containerHeader {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

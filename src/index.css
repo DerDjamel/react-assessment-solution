@@ -1,0 +1,95 @@
+:root {
+  --background: #e5e5e5;
+  --primary: #333333;
+  --secondary: #f2f2f2;
+  --tertiary: #286ef1;
+  --text-primary: black;
+  --text-secondary: #555555;
+  --text-white: white;
+  --chip-resolved: #52d194;
+  --chip-feedback: #9026b1;
+  --white: white;
+}
+
+body {
+  background-color: var(--background);
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+Input {
+  border: none;
+  background-color: var(--secondary);
+}
+
+input:focus-visible {
+  outline-offset: unset;
+  outline: none;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: none;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: none;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.gap {
+  gap: 10px;
+}
+
+.centerText{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.smallGap {
+  gap: 5px;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.fullHeight {
+  height: 100%;
+}
+
+.center {
+  align-items: center;
+  justify-content: center;
+}
+
+.alignCenter {
+  align-items: center;
+}
+
+.justifyCenter {
+  justify-content: center;
+}
+
+.button {
+  cursor: pointer;
+}

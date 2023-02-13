@@ -1,0 +1,12 @@
+.roundedImg{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+
+.avatarLabel{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 30px;
+    color: var(--text-secondary);
+}

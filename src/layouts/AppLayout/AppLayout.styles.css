@@ -1,0 +1,19 @@
+.rootAppWrapper {
+    display: 'flex';
+    flex-direction: 'column';
+    height: '100%';
+  }
+
+  .nav {
+    min-height: 60px;
+  }
+
+  .container {
+    padding-top: 40px;
+    overflow: 'auto';
+  }
+
+.pageContainer{
+  display: flex;
+  justify-content: center;
+}

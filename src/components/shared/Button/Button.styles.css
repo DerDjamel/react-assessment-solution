@@ -1,0 +1,11 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 16px;
+    border-radius: 4px;
+    background-color: var(--tertiary);
+    cursor: pointer;
+    color: var(--white);
+}
